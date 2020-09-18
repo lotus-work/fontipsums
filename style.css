@@ -1,0 +1,303 @@
+/* Copyright By Lotus Biswas */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.site-wrapper {
+    width: 100%;
+    height: 700px;
+    padding: 50px 0;
+    background-image: url('images/photo-6.png');
+}
+
+.site-wrapper .container {
+    width: 70%;
+    margin: auto;
+    color: blanchedalmond;
+    padding: 100px 0 0 0;
+}
+
+.site-wrapper .container .upper-section {
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+.site-wrapper .container .upper-section h1 {
+    font-size: 160px;
+    padding-bottom: 10px;
+}
+
+@media only screen and (max-width: 900px) {
+    .site-wrapper .container .upper-section h1 {
+        font-size: 100px;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    .site-wrapper .container .upper-section h1 {
+        font-size: 80px;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .site-wrapper .container .upper-section h1 {
+        font-size: 60px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .site-wrapper .container .upper-section h1 {
+        font-size: 50px;
+    }
+}
+
+.site-wrapper .container .upper-section p {
+    font-size: 48px;
+}
+
+@media only screen and (max-width: 900px) {
+    .site-wrapper .container .upper-section p{
+        font-size: 36px;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    .site-wrapper .container .upper-section p {
+        font-size: 24px;
+    }
+}
+
+
+.site-wrapper .container .lower-section {
+    font-size: 14px;
+    color: #bbbbbb;
+    margin: 5px 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.site-wrapper .container .lower-section .lower-section-f-text {
+    text-align: left;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 100;
+    letter-spacing: 0.3px;
+    margin: 5px auto;
+    line-height: 1.5;
+}
+
+.site-wrapper .container .lower-section .lower-section-f-text {
+    text-align: left;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 100;
+    letter-spacing: 0.3px;
+    margin: 5px auto;
+    line-height: 1.5;
+}
+
+
+.site-wrapper .container .lower-section .lower-section-s-list {
+    text-align: left;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 100;
+    letter-spacing: 0.3px;
+    margin: 15px auto;
+    line-height: 1.5;
+    list-style: none;
+    float: left;
+}
+.site-wrapper .container .lower-section .lower-section-s-list a{
+ text-decoration: none;
+ color: #bbbbbb; 
+}
+.container-1{
+    width: 100%;
+    height: 700px;
+    padding: 50px 0;    
+    background: #ECD078;
+}
+.container-1 .container1-side-section{
+    
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+@media (max-width: 768px)
+{
+    .container-1 .container1-side-section {
+    margin-left: 10%;
+}
+}
+.container-1 .container1-inner-section{
+    width: 50%;
+    margin: auto;
+    color: blanchedalmond;
+    padding: 100px 0 0 0;
+}
+@media (max-width: 900px)
+{
+    .container-1 .container1-inner-section {
+    width: 80%;
+}
+}
+
+.container-1 .container1-inner-section .container1-upper-section{
+    font-family: 'Lato', serif;
+    line-height: 1.5;
+    font-size: 16px;
+    color: black;
+}
+
+.container-1 .container1-inner-section .container1-upper-section a{
+    text-decoration: none;
+    color: black;
+}
+.container-1 .container1-inner-section .container1-lower-section{
+    margin-top: 30px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.container-1 .container1-inner-section .container1-lower-section p{
+   color: black;
+}
+
+
+.container-1 .container1-inner-section .container1-lower-section a{
+    text-decoration: none;
+}
+
+/* Container 2 */
+
+.container-2{
+    width: 100%;
+    height: 700px;
+    padding: 50px 0;    
+    background-image: url('images/photo-12.png');
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container-2 .container2-side-section{
+    
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+@media (max-width: 768px)
+{
+    .container-2 .container2-side-section {
+    margin-left: 10%;
+}
+}
+.container-2 .container2-inner-section{
+    width: 50%;
+    margin: auto;
+    color: blanchedalmond;
+    padding: 100px 0 0 0;
+}
+@media (max-width: 900px)
+{
+    .container-2 .container2-inner-section {
+    width: 80%;
+}
+}
+
+.container-2 .container2-inner-section .container2-upper-section{
+    font-family: 'Grenze Gotisch', cursive;
+    line-height: 1.5;
+    font-size: 16px;
+    color: black;
+}
+
+.container-2 .container2-inner-section .container2-upper-section a{
+    text-decoration: none;
+    color: black;
+}
+.container-2 .container2-inner-section .container2-lower-section{
+    margin-top: 30px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 300;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.container-2 .container2-inner-section .container2-lower-section p{
+   color: black;
+}
+
+
+.container-2 .container2-inner-section .container2-lower-section a{
+    text-decoration: none;
+}
+
+/* Container 3 */
+
+
+.container-3{
+    width: 100%;
+    height: 700px;
+    padding: 50px 0;    
+    background: #d7ec78;
+}
+.container-3 .container3-side-section{
+    
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+@media (max-width: 768px)
+{
+    .container-3 .container3-side-section {
+    margin-left: 10%;
+}
+}
+.container-3 .container3-inner-section{
+    width: 50%;
+    margin: auto;
+    color: blanchedalmond;
+    padding: 100px 0 0 0;
+}
+@media (max-width: 900px)
+{
+    .container-3 .container3-inner-section {
+    width: 80%;
+}
+}
+
+.container-3 .container3-inner-section .container3-upper-section{
+    font-family: 'Lora', serif;
+    line-height: 1.5;
+    font-size: 16px;
+    color: black;
+}
+
+.container-3 .container3-inner-section .container3-upper-section a{
+    text-decoration: none;
+    color: black;
+}
+.container-3 .container3-inner-section .container3-lower-section{
+    margin-top: 30px;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 300;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.container-3 .container3-inner-section .container3-lower-section p{
+   color: black;
+}
+
+
+.container-3 .container3-inner-section .container3-lower-section a{
+    text-decoration: none;
+}
