@@ -529,3 +529,69 @@
 .container-6 .container6-inner-section .container6-lower-section a{
     text-decoration: none;
 }
+
+
+
+/* Container 7  */
+
+
+.container-7{
+    width: 100%;
+    height: 700px;
+    padding: 50px 0;    
+    background: #e478ec;
+}
+.container-7 .container7-side-section{
+    
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+@media (max-width: 768px)
+{
+    .container-7 .container7-side-section {
+    margin-left: 10%;
+}
+}
+.container-7 .container7-inner-section{
+    width: 50%;
+    margin: auto;
+    color: blanchedalmond;
+    padding: 100px 0 0 0;
+}
+@media (max-width: 900px)
+{
+    .container-7 .container7-inner-section {
+    width: 80%;
+}
+}
+
+.container-7 .container7-inner-section .container7-upper-section{
+    font-family: 'Sonsie One', cursive;
+    line-height: 1.5;
+    font-size: 16px;
+    color: black;
+}
+
+.container-7 .container7-inner-section .container7-upper-section a{
+    text-decoration: none;
+    color: black;
+}
+.container-7 .container7-inner-section .container7-lower-section{
+    margin-top: 30px;
+    font-family: 'Mako', sans-serif;
+    font-weight: 300;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.container-7 .container7-inner-section .container7-lower-section p{
+   color: black;
+}
+
+
+.container-7 .container7-inner-section .container7-lower-section a{
+    text-decoration: none;
+}
