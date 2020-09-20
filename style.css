@@ -21,12 +21,12 @@
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background-color:  rgb(238, 139, 122);
+    background-color:  rgb(236, 60, 29);
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background-color:  rgb(218, 153, 142);
+    background-color:  rgb(226, 99, 77);
   }
   /*     */
 .site-wrapper {
@@ -239,6 +239,7 @@
     line-height: 1.5;
     font-size: 16px;
     color: black;
+    text-align: right;
 }
 
 .container-2 .container2-inner-section .container2-upper-section a{
@@ -251,6 +252,7 @@
     font-weight: 300;
     line-height: 1.5;
     font-size: 18px;
+    text-align: right;
 }
 
 .container-2 .container2-inner-section .container2-lower-section p{
@@ -372,6 +374,7 @@
     line-height: 1.5;
     font-size: 16px;
     color: black;
+    text-align: right;
 }
 
 .container-4 .container4-inner-section .container4-upper-section a{
@@ -384,6 +387,7 @@
     font-weight: 300;
     line-height: 1.5;
     font-size: 18px;
+    text-align: right;
 }
 
 .container-4 .container4-inner-section .container4-lower-section p{
@@ -507,6 +511,7 @@
     line-height: 1.5;
     font-size: 16px;
     color: black;
+    text-align: right;
 }
 
 .container-6 .container6-inner-section .container6-upper-section a{
@@ -519,6 +524,7 @@
     font-weight: 300;
     line-height: 1.5;
     font-size: 18px;
+    text-align: right;
 }
 
 .container-6 .container6-inner-section .container6-lower-section p{
@@ -643,6 +649,7 @@
     line-height: 1.5;
     font-size: 16px;
     color: black;
+    text-align: right;
 }
 
 .container-8 .container8-inner-section .container8-upper-section a{
@@ -655,6 +662,7 @@
     font-weight: 300;
     line-height: 1.5;
     font-size: 18px;
+    text-align: right;
 }
 
 .container-8 .container8-inner-section .container8-lower-section p{
